@@ -144,8 +144,8 @@ function renderProductPage(products, page) {
 
     html += '<div class="product-item" data-image="' + imgSrc + '" data-name="' + name + '">'
       + '<div class="product-image-wrap">'
-      + '<img class="lazy" data-src="' + imgSrc + '" alt="' + name + '" '
-      + 'onerror="this.style.display=\'none\';this.parentElement.innerHTML=\'<div class=\\\"product-image-placeholder\\\">📦</div>\'">'
+      + '<div class="product-image-placeholder" style="display:none;">📦</div>'
+      + '<img class="lazy" data-src="' + imgSrc + '" alt="' + name + '">'
       + '</div>'
       + '<div class="product-name">' + name + '</div>'
       + '</div>';
@@ -160,6 +160,9 @@ function renderProductPage(products, page) {
 
   // 绑定点击事件
   bindProductClicks();
+
+  // 绑定图片加载失败事件
+  bindImageErrorHandlers();
 
   // 懒加载当前页图片
   lazyLoadImages();
@@ -179,11 +182,31 @@ function bindProductClicks() {
       var imgSrc = this.getAttribute('data-image');
       var name = this.getAttribute('data-name');
       // 如果图片加载失败，用占位符图标
-      if (img && img.style.display === 'none') {
+      var placeholder = this.querySelector('.product-image-placeholder');
+      if (placeholder && placeholder.style.display !== 'none') {
         imgSrc = '';
       }
       if (typeof openModal === 'function') {
         openModal(imgSrc, name);
+      }
+    });
+  }
+}
+
+/**
+ * 绑定图片加载失败事件
+ * 图片加载失败时显示占位符
+ */
+function bindImageErrorHandlers() {
+  var images = document.querySelectorAll('.product-image-wrap img.lazy');
+  for (var i = 0; i < images.length; i++) {
+    if (images[i].getAttribute('data-error-bound') === 'true') continue;
+    images[i].setAttribute('data-error-bound', 'true');
+    images[i].addEventListener('error', function () {
+      this.style.display = 'none';
+      var placeholder = this.parentElement.querySelector('.product-image-placeholder');
+      if (placeholder) {
+        placeholder.style.display = 'flex';
       }
     });
   }

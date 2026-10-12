@@ -3,221 +3,205 @@
     "title": "广州博雅诺汽摩配件 - 产品目录",
     "subtitle": "专业摩托车配件供应商",
     "contact": {
-      "phone": "138-0000-0000",
-      "wechat": "boyanuo-parts",
-      "email": "info@boyanuo.com"
+      "phone": "199-2834-6687",
+      "wechat": "Zhang1274562165",
+      "email": "19928346687@163.com"
     }
   },
   "categories": [
     {
-      "id": "cat-4331b178",
-      "name": "摩托车配件",
+      "id": "cat-02a41e32",
+      "name": "发动机系统",
       "children": [
         {
-          "id": "cat-b3df0f15",
-          "name": "制动系统",
+          "id": "cat-75eb68d1",
+          "name": "曲轴连杆机构",
           "children": [
             {
-              "id": "cat-697faaa6",
-              "name": "刹车片",
+              "id": "cat-024db2fb",
+              "name": "曲轴",
               "products": [
                 {
-                  "name": "陶瓷刹车片前轮",
-                  "image": "images/brake-pad-front-01.jpg"
+                  "name": "CBF150曲轴",
+                  "image": "images/CBF150曲轴.jpg"
                 },
                 {
-                  "name": "陶瓷刹车片后轮",
-                  "image": "images/brake-pad-rear-01.jpg"
+                  "name": "YBR125曲轴",
+                  "image": "images/YBR125曲轴.jpg"
                 },
                 {
-                  "name": "半金属刹车片前轮",
-                  "image": "images/brake-pad-front-02.jpg"
-                },
-                {
-                  "name": "半金属刹车片后轮",
-                  "image": "images/brake-pad-rear-02.jpg"
-                }
-              ]
-            },
-            {
-              "id": "cat-b7427791",
-              "name": "刹车盘",
-              "products": [
-                {
-                  "name": "前刹车盘 300mm",
-                  "image": "images/brake-disc-front-01.jpg"
-                },
-                {
-                  "name": "后刹车盘 260mm",
-                  "image": "images/brake-disc-rear-01.jpg"
-                },
-                {
-                  "name": "浮动式前刹车盘",
-                  "image": "images/brake-disc-front-02.jpg"
-                }
-              ]
-            },
-            {
-              "id": "cat-bd5096b6",
-              "name": "刹车油管",
-              "products": [
-                {
-                  "name": "钢编刹车油管前轮",
-                  "image": "images/brake-hose-front-01.jpg"
-                },
-                {
-                  "name": "钢编刹车油管后轮",
-                  "image": "images/brake-hose-rear-01.jpg"
+                  "name": "动力王平衡轴",
+                  "image": "images/动力王平衡轴.jpg"
                 }
               ]
             }
           ]
         },
         {
-          "id": "cat-acbcd312",
-          "name": "传动系统",
+          "id": "cat-7124b6ef",
+          "name": "活塞组件",
           "children": [
             {
-              "id": "cat-01332313",
-              "name": "传动皮带",
+              "id": "cat-1c79ad04",
+              "name": "套缸/缸头套件",
               "products": [
                 {
-                  "name": "传动皮带 743-20-30",
-                  "image": "images/belt-01.jpg"
-                },
-                {
-                  "name": "传动皮带 835-20-31",
-                  "image": "images/belt-02.jpg"
-                }
-              ]
-            },
-            {
-              "id": "cat-3593cd96",
-              "name": "离合器",
-              "products": [
-                {
-                  "name": "湿式多片离合器总成",
-                  "image": "images/clutch-01.jpg"
-                },
-                {
-                  "name": "离合器摩擦片组",
-                  "image": "images/clutch-02.jpg"
-                },
-                {
-                  "name": "离合器弹簧组",
-                  "image": "images/clutch-03.jpg"
-                }
-              ]
-            },
-            {
-              "id": "cat-f7af3c30",
-              "name": "链条链轮",
-              "products": [
-                {
-                  "name": "520规格前链轮 15T",
-                  "image": "images/sprocket-front-01.jpg"
-                },
-                {
-                  "name": "520规格后链轮 45T",
-                  "image": "images/sprocket-rear-01.jpg"
-                },
-                {
-                  "name": "金色O型密封链 520",
-                  "image": "images/chain-01.jpg"
+                  "name": "FT150半缸头总成",
+                  "image": "images/FT150半缸头总成.jpg"
                 }
               ]
             }
           ]
         },
         {
-          "id": "cat-22d5bd4e",
-          "name": "灯具电气",
+          "id": "cat-98c5d403",
+          "name": "配气机构",
           "children": [
             {
-              "id": "cat-e92a7de7",
-              "name": "LED大灯",
+              "id": "cat-1f96e55e",
+              "name": "凸轮轴",
               "products": [
                 {
-                  "name": "LED双光大灯总成",
-                  "image": "images/led-headlight-01.jpg"
+                  "name": "CG125凸轮",
+                  "image": "images/CG125凸轮.jpg"
                 },
                 {
-                  "name": "LED透镜大灯",
-                  "image": "images/led-headlight-02.jpg"
-                }
-              ]
-            },
-            {
-              "id": "cat-d74e5df2",
-              "name": "转向灯",
-              "products": [
-                {
-                  "name": "LED转向灯前左",
-                  "image": "images/turn-signal-fl-01.jpg"
+                  "name": "DY100凸轮",
+                  "image": "images/DY100凸轮.jpg"
                 },
                 {
-                  "name": "LED转向灯前右",
-                  "image": "images/turn-signal-fr-01.jpg"
-                },
-                {
-                  "name": "LED转向灯后左",
-                  "image": "images/turn-signal-rl-01.jpg"
-                },
-                {
-                  "name": "LED转向灯后右",
-                  "image": "images/turn-signal-rr-01.jpg"
-                }
-              ]
-            },
-            {
-              "id": "cat-595c0f50",
-              "name": "仪表开关",
-              "products": [
-                {
-                  "name": "数字液晶仪表总成",
-                  "image": "images/dashboard-01.jpg"
-                },
-                {
-                  "name": "手把开关总成右侧",
-                  "image": "images/switch-right-01.jpg"
-                },
-                {
-                  "name": "手把开关总成左侧",
-                  "image": "images/switch-left-01.jpg"
+                  "name": "JH70凸轮",
+                  "image": "images/JH70凸轮.jpg"
                 }
               ]
             }
           ]
         },
         {
-          "id": "cat-aefa95c0",
-          "name": "悬挂系统",
+          "id": "cat-d8a8ed5e",
+          "name": "燃油进气系统",
           "children": [
             {
-              "id": "cat-5b55520b",
-              "name": "前减震",
+              "id": "cat-766f1900",
+              "name": "化油器/化油器接头",
               "products": [
                 {
-                  "name": "前减震器总成左",
-                  "image": "images/front-shock-l-01.jpg"
+                  "name": "CG125化油器",
+                  "image": "images/CG125化油器 彩盖 带杯.jpg"
                 },
                 {
-                  "name": "前减震器总成右",
-                  "image": "images/front-shock-r-01.jpg"
+                  "name": "XF125化接头",
+                  "image": "images/XF125化接头（胶）.jpg"
+                },
+                {
+                  "name": "化油器-CG150",
+                  "image": "images/CG125化油器 彩盖 带杯.jpg"
+                },
+                {
+                  "name": "化油器-DT125",
+                  "image": "images/化油器-DT125.jpg"
+                },
+                {
+                  "name": "风暴太子 钱江125化接头 (胶)",
+                  "image": "images/钱江125化接头（胶）.jpg"
+                },
+                {
+                  "name": "风暴太子 钱江175化接头(加长 铝)",
+                  "image": "images/风暴太子 钱江175化接头(加长 铝).jpg"
                 }
               ]
             },
             {
-              "id": "cat-82926d0b",
-              "name": "后减震",
+              "id": "cat-825864cb",
+              "name": "二次空气阀",
               "products": [
                 {
-                  "name": "后减震器单筒式",
-                  "image": "images/rear-shock-01.jpg"
+                  "name": "欧二阀总成",
+                  "image": "images/欧二阀总成.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cat-e9d8e4d2",
+          "name": "离合器与CVT",
+          "children": [
+            {
+              "id": "cat-5ac5602c",
+              "name": "离合器系统",
+              "products": [
+                {
+                  "name": "BAJA100离合片",
+                  "image": "images/BAJA100离合片.jpg"
                 },
                 {
-                  "name": "后减震器双筒式",
-                  "image": "images/rear-shock-02.jpg"
+                  "name": "离合器-C70",
+                  "image": "images/离合器-C70.jpg"
+                },
+                {
+                  "name": "离合器-JH70",
+                  "image": "images/离合器-JH70.jpg"
+                },
+                {
+                  "name": "离合器总成带盖-V125G",
+                  "image": "images/离合器总成 带盖-丽彩 V125G.jpg"
+                },
+                {
+                  "name": "离合小古总成-CD110",
+                  "image": "images/离合小古总成-CD110.jpg"
+                },
+                {
+                  "name": "离合小古总成-CG125-4T",
+                  "image": "images/离合小古总成-CG125-4T.jpg"
+                },
+                {
+                  "name": "离合小古总成-CG125-5T",
+                  "image": "images/离合小古总成-CG125-5T.jpg"
+                },
+                {
+                  "name": "离合小古总成-CG150-6T-6P",
+                  "image": "images/离合小古总成-CG150-6T-6P.jpg"
+                },
+                {
+                  "name": "离合小古总成-GS125",
+                  "image": "images/离合小古总成-GS125.jpg"
+                }
+              ]
+            },
+            {
+              "id": "cat-bcda1524",
+              "name": "波盘/普利珠",
+              "products": [
+                {
+                  "name": "CG125波盘",
+                  "image": "images/CG125波盘.jpg"
+                },
+                {
+                  "name": "CD110 DY100波盘",
+                  "image": "images/CD110 DY100波盘.jpg"
+                },
+                {
+                  "name": "GN125波盘",
+                  "image": "images/GN125波盘.jpg"
+                }
+              ]
+            },
+            {
+              "id": "cat-c12118b5",
+              "name": "缓冲体",
+              "products": [
+                {
+                  "name": "CY80缓冲体总成",
+                  "image": "images/CY80缓冲体总成+螺丝.jpg"
+                },
+                {
+                  "name": "大阳100 JH70缓冲体",
+                  "image": "images/大阳100 JH70缓冲体.jpg"
+                },
+                {
+                  "name": "DY100缓冲体总成-36T",
+                  "image": "images/DY100缓冲体总成-36T.jpg"
                 }
               ]
             }

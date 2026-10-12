@@ -305,9 +305,9 @@ def build_catalog(valid_rows):
         'title': '广州博雅诺汽摩配件 - 产品目录',
         'subtitle': '专业摩托车配件供应商',
         'contact': {
-            'phone': '138-0000-0000',
-            'wechat': 'boyanuo-parts',
-            'email': 'info@boyanuo.com'
+            'phone': '199-2834-6687',
+            'wechat': 'Zhang1274562165',
+            'email': '19928346687@163.com'
         }
     }
 
