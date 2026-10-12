@@ -1,0 +1,229 @@
+{
+  "site": {
+    "title": "广州博雅诺汽摩配件 - 产品目录",
+    "subtitle": "专业摩托车配件供应商",
+    "contact": {
+      "phone": "138-0000-0000",
+      "wechat": "boyanuo-parts",
+      "email": "info@boyanuo.com"
+    }
+  },
+  "categories": [
+    {
+      "id": "cat-4331b178",
+      "name": "摩托车配件",
+      "children": [
+        {
+          "id": "cat-b3df0f15",
+          "name": "制动系统",
+          "children": [
+            {
+              "id": "cat-697faaa6",
+              "name": "刹车片",
+              "products": [
+                {
+                  "name": "陶瓷刹车片前轮",
+                  "image": "images/brake-pad-front-01.jpg"
+                },
+                {
+                  "name": "陶瓷刹车片后轮",
+                  "image": "images/brake-pad-rear-01.jpg"
+                },
+                {
+                  "name": "半金属刹车片前轮",
+                  "image": "images/brake-pad-front-02.jpg"
+                },
+                {
+                  "name": "半金属刹车片后轮",
+                  "image": "images/brake-pad-rear-02.jpg"
+                }
+              ]
+            },
+            {
+              "id": "cat-b7427791",
+              "name": "刹车盘",
+              "products": [
+                {
+                  "name": "前刹车盘 300mm",
+                  "image": "images/brake-disc-front-01.jpg"
+                },
+                {
+                  "name": "后刹车盘 260mm",
+                  "image": "images/brake-disc-rear-01.jpg"
+                },
+                {
+                  "name": "浮动式前刹车盘",
+                  "image": "images/brake-disc-front-02.jpg"
+                }
+              ]
+            },
+            {
+              "id": "cat-bd5096b6",
+              "name": "刹车油管",
+              "products": [
+                {
+                  "name": "钢编刹车油管前轮",
+                  "image": "images/brake-hose-front-01.jpg"
+                },
+                {
+                  "name": "钢编刹车油管后轮",
+                  "image": "images/brake-hose-rear-01.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cat-acbcd312",
+          "name": "传动系统",
+          "children": [
+            {
+              "id": "cat-01332313",
+              "name": "传动皮带",
+              "products": [
+                {
+                  "name": "传动皮带 743-20-30",
+                  "image": "images/belt-01.jpg"
+                },
+                {
+                  "name": "传动皮带 835-20-31",
+                  "image": "images/belt-02.jpg"
+                }
+              ]
+            },
+            {
+              "id": "cat-3593cd96",
+              "name": "离合器",
+              "products": [
+                {
+                  "name": "湿式多片离合器总成",
+                  "image": "images/clutch-01.jpg"
+                },
+                {
+                  "name": "离合器摩擦片组",
+                  "image": "images/clutch-02.jpg"
+                },
+                {
+                  "name": "离合器弹簧组",
+                  "image": "images/clutch-03.jpg"
+                }
+              ]
+            },
+            {
+              "id": "cat-f7af3c30",
+              "name": "链条链轮",
+              "products": [
+                {
+                  "name": "520规格前链轮 15T",
+                  "image": "images/sprocket-front-01.jpg"
+                },
+                {
+                  "name": "520规格后链轮 45T",
+                  "image": "images/sprocket-rear-01.jpg"
+                },
+                {
+                  "name": "金色O型密封链 520",
+                  "image": "images/chain-01.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cat-22d5bd4e",
+          "name": "灯具电气",
+          "children": [
+            {
+              "id": "cat-e92a7de7",
+              "name": "LED大灯",
+              "products": [
+                {
+                  "name": "LED双光大灯总成",
+                  "image": "images/led-headlight-01.jpg"
+                },
+                {
+                  "name": "LED透镜大灯",
+                  "image": "images/led-headlight-02.jpg"
+                }
+              ]
+            },
+            {
+              "id": "cat-d74e5df2",
+              "name": "转向灯",
+              "products": [
+                {
+                  "name": "LED转向灯前左",
+                  "image": "images/turn-signal-fl-01.jpg"
+                },
+                {
+                  "name": "LED转向灯前右",
+                  "image": "images/turn-signal-fr-01.jpg"
+                },
+                {
+                  "name": "LED转向灯后左",
+                  "image": "images/turn-signal-rl-01.jpg"
+                },
+                {
+                  "name": "LED转向灯后右",
+                  "image": "images/turn-signal-rr-01.jpg"
+                }
+              ]
+            },
+            {
+              "id": "cat-595c0f50",
+              "name": "仪表开关",
+              "products": [
+                {
+                  "name": "数字液晶仪表总成",
+                  "image": "images/dashboard-01.jpg"
+                },
+                {
+                  "name": "手把开关总成右侧",
+                  "image": "images/switch-right-01.jpg"
+                },
+                {
+                  "name": "手把开关总成左侧",
+                  "image": "images/switch-left-01.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cat-aefa95c0",
+          "name": "悬挂系统",
+          "children": [
+            {
+              "id": "cat-5b55520b",
+              "name": "前减震",
+              "products": [
+                {
+                  "name": "前减震器总成左",
+                  "image": "images/front-shock-l-01.jpg"
+                },
+                {
+                  "name": "前减震器总成右",
+                  "image": "images/front-shock-r-01.jpg"
+                }
+              ]
+            },
+            {
+              "id": "cat-82926d0b",
+              "name": "后减震",
+              "products": [
+                {
+                  "name": "后减震器单筒式",
+                  "image": "images/rear-shock-01.jpg"
+                },
+                {
+                  "name": "后减震器双筒式",
+                  "image": "images/rear-shock-02.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

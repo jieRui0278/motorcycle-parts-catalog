@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>产品列表 - 产品目录</title>
+  <meta name="description" content="摩托车配件产品列表">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- 顶部标题栏 -->
+  <header class="site-header">
+    <div class="header-inner">
+      <h1 class="site-title" id="siteTitle">产品目录</h1>
+      <p class="site-subtitle" id="siteSubtitle">专业摩托车配件供应商</p>
+    </div>
+  </header>
+
+  <!-- 面包屑导航（动态生成） -->
+  <nav class="breadcrumb" id="breadcrumb">
+    <a href="index.html">首页</a>
+  </nav>
+
+  <!-- 主内容区 -->
+  <main class="main-content">
+    <h2 class="section-title" id="pageTitle">产品列表</h2>
+
+    <!-- 产品网格 -->
+    <div class="product-grid" id="productGrid">
+      <div class="loading-hint">加载中...</div>
+    </div>
+
+    <!-- 加载更多按钮 -->
+    <div class="load-more-wrap" id="loadMoreWrap" style="display:none;">
+      <button class="load-more-btn" id="loadMoreBtn">加载更多</button>
+    </div>
+
+    <!-- 同级分类快速切换 -->
+    <nav class="sibling-nav" id="siblingNav"></nav>
+  </main>
+
+  <!-- 底部联系方式 -->
+  <footer class="site-footer" id="siteFooter">
+    <p>联系方式：</p>
+    <p id="contactInfo">电话：138-0000-0000 | 微信：boyanuo-parts</p>
+  </footer>
+
+  <!-- 大图弹层容器 -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal-content">
+      <button class="modal-close" id="modalClose" aria-label="关闭">&times;</button>
+      <img class="modal-image" id="modalImage" src="" alt="">
+      <p class="modal-name" id="modalName"></p>
+    </div>
+  </div>
+
+  <script src="js/modal.js"></script>
+  <script src="js/products.js"></script>
+</body>
+</html>
